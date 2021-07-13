@@ -1,0 +1,7 @@
+This is a test file.
+Just testing. 
+Tests are important to find out what works, and what doesn't. 
+Line 1: cat dog lion
+Line 2: house table porch
+line 4: sky sun moon
+And this is the end of our test

@@ -1,0 +1,8 @@
+Learn these testwords: 
+cat
+dog
+lion
+tree
+moon
+test
+
